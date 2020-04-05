@@ -20,7 +20,7 @@ module.exports = {
       'error',
       { singleQuote: true },
       {
-        usePrettierrc: false,
+        usePrettierrc: true,
       },
     ],
     'react/prefer-stateless-function': 0,
