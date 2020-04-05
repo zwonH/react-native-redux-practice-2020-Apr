@@ -1,0 +1,6 @@
+module Pods_rnRedux2020Apr_rnRedux2020AprTests {
+  umbrella header "Pods-rnRedux2020Apr-rnRedux2020AprTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
